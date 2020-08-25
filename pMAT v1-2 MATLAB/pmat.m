@@ -151,7 +151,7 @@ handles.data=[];handles.Ch490=[];handles.Ch405=[];
 handles.Fs=[];handles.Ts=[];handles.fields=[];
 handles.Beh=[];handles.epoclist=[];handles.fields=[];
 
-if isfield(handles,'LastFold')==0;
+if isfield(handles,'LastFold')==0 || ~isfield(handles,'TDTFold');
     handles.TDTFold=uigetdir ('C:\','Open TDT Block Folder');
 elseif isfield(handles,'CSVFold')
     handles.TDTFold=uigetdir (handles.CSVFold,'Open TDT Block Folder');
