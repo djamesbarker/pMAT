@@ -58,11 +58,9 @@ end
 function pmat_OpeningFcn(hObject, eventdata, handles, varargin)
 % Choose default command line output for pmat:
 handles.output = hObject;
-%Variables in the ‚Äúhandles‚Äù structure will get passed along between the different sections of the GUI.
+%Variables in the ìhandlesî structure will get passed along between the different sections of the GUI.
 %Create arrays of related components to easily enable or disable GUI
 %buttons in groups:
-diary ('pMAT Log');
-diary on;
 handles.PETHPanel = [handles.DeltaFCheck, handles.ZScoreCheck, handles.AUCDataCheck, ...
     handles.AUCGraphCheck, handles.PETHContinueButton, handles.BinInput,handles.BinText handles.BL_StartInput, ...
     handles.BL_WidthInput, handles.BLWidthText,handles.BLStartText, handles.PreInput, ...
@@ -99,8 +97,7 @@ set(handles.PlotPanel, 'Enable', 'off');
 set(handles.EventTickOptionsPanel,'Enable','off');
 set(handles.NamePrefixPanel, 'Enable','off');
 set(handles.TraceEventNamePanel,'Enable','off');
-axes(handles.axes2)
-imshow('BarkerLab.jpg')
+
 
 %Set the default values:
 set(handles.FilePath, 'String', '');
@@ -153,9 +150,9 @@ handles.Beh=[];handles.epoclist=[];handles.fields=[];
 
 if isfield(handles,'LastFold')==0 || ~isfield(handles,'TDTFold');
     handles.TDTFold=uigetdir ('C:\','Open TDT Block Folder');
-elseif isfield(handles,'CSVFold')
+elseif isfield(handles,'CSVFold');
     handles.TDTFold=uigetdir (handles.CSVFold,'Open TDT Block Folder');
-elseif handles.TDTFold==0
+elseif handles.TDTFold==0;
     handles.TDTFold=uigetdir ('C:\','Open TDT Block Folder');
 else
     handles.TDTFold=uigetdir (handles.LastFold,'Open TDT Block Folder');
@@ -1972,7 +1969,6 @@ if strcmp(answer,'Yes')
         msgbox('Settings not saved.','Error','warn');
     end
 end
-diary off
 % Hint: delete(hObject) closes the figure
 delete(hObject);
 
