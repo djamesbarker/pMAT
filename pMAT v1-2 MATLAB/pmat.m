@@ -58,7 +58,7 @@ end
 function pmat_OpeningFcn(hObject, eventdata, handles, varargin)
 % Choose default command line output for pmat:
 handles.output = hObject;
-%Variables in the ìhandlesî structure will get passed along between the different sections of the GUI.
+%Variables in the ‚Äúhandles‚Äù structure will get passed along between the different sections of the GUI.
 %Create arrays of related components to easily enable or disable GUI
 %buttons in groups:
 diary ('pMAT Log');
@@ -100,7 +100,7 @@ set(handles.EventTickOptionsPanel,'Enable','off');
 set(handles.NamePrefixPanel, 'Enable','off');
 set(handles.TraceEventNamePanel,'Enable','off');
 axes(handles.axes2)
-imshow('D:\Google Drive\Barker Lab\PMAT and Photometry Code\pmat 1-2\BarkerLab.jpg')
+imshow('BarkerLab.jpg')
 
 %Set the default values:
 set(handles.FilePath, 'String', '');
