@@ -1,7 +1,6 @@
 # pMAT (Photometry Modular Analysis Tool)
 
 [![License: LGPL v3](https://img.shields.io/badge/License-LGPL%20v3-pink.svg)](https://www.gnu.org/licenses/lgpl-3.0)
-[![Barker Lab Website](http://www.thebarkerlab.com)]
 
 
 **Pre-print: [pMAT: An Open-Source, Modular Software Suite for the Analysis of Fiber Photometry Calcium Imaging](https://www.biorxiv.org/content/10.1101/2020.08.23.263673v1)**
