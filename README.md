@@ -33,4 +33,8 @@ This project is licensed under the GNU Lesser General Public License v3.0. Note 
 - [David Barker](https://github.com/djamesbarker)
 - [David Estrin](https://twitter.com/tachykinin?lang=en)
 - Carissa Bruno
+- Chris O'Brien
+- Svetlana Bryant
+- Jennifer Mejaes
+- Carina Pizzano
 
