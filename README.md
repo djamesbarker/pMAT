@@ -16,6 +16,9 @@ These files provide examples of how files should be formatted for use in pMAT an
 - [Tucker-Davis Technologies sample data](https://github.com/djamesbarker/pMAT/tree/master/Sample%20Data/99761-170207-161634/Photometry-161823) 💾
 - [Comma separated values (CSV) sample data](https://github.com/djamesbarker/pMAT/tree/master/Sample%20Data/Example%20of%20CSV%20formatting) 💾
  
+## YouTube Video Tutorials 🎞️
+
+COMING SOON!!!
 
 ## License 📃
 This project is licensed under the GNU Lesser General Public License v3.0. Note that the software is provided "as is", without warranty of any kind, express or implied. 
@@ -26,6 +29,8 @@ This project is licensed under the GNU Lesser General Public License v3.0. Note 
 [![Foo](https://github.com/djamesbarker/pMAT/blob/master/Resources/LabIcon.png)](https://www.thebarkerlab.com) 
 [![Foo](https://github.com/djamesbarker/pMAT/blob/master/Resources/twitter.png)](https://twitter.com/DavidBarker_PhD)
 
-## Contributors 🤼
+## Contributors 👨‍🔬👩‍🔬
 - [David Barker](https://github.com/djamesbarker)
+- [David Estrin](https://twitter.com/tachykinin?lang=en)
+- Carissa Bruno
 
