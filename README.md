@@ -9,6 +9,9 @@
 Fiber Photometry is a tool for neural imaging of calcium or neurotransmitter dynamics.  Many commercial systems exist for recording data, but analysis software is lacking across the field. 
 Here we've introduced an open-source analysis package that can be used widely to standardize analysis approaches.
 
+## Basic Workflow 🧑‍💻
+![](https://github.com/sgoldenlab/simba/blob/master/images/overallflow.PNG)
+
 ## Sample Data 🧪💾
 Below are links to sample data files from either Tucker Davis Technologies (TDT) or a generic comma-separated value ('.CSV') format.
 These files provide examples of how files should be formatted for use in pMAT and can also be used when learning to process data in pMAT.
