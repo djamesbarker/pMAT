@@ -16,6 +16,9 @@ This project is licensed under the GNU Lesser General Public License v3.0. Note 
 
 ## References 📜
 
+[![Foo](https://github.com/djamesbarker/pMAT/blob/master/Resources/LabIcon.jpg)](https://www.thebarkerlab.com) 
+[![Foo](https://github.com/djamesbarker/pMAT/blob/master/Resources/twitter.png)](https://twitter.com/DavidBarker_PhD)
+
 ## Contributors 🤼
 - [David Barker](https://github.com/djamesbarker)
 
