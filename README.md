@@ -2,6 +2,7 @@
 
 [![License: LGPL v3](https://img.shields.io/badge/License-LGPL%20v3-pink.svg)](https://www.gnu.org/licenses/lgpl-3.0)
 
+**Version 1.3 coming soon!**
 ![](https://github.com/djamesbarker/pMAT/blob/master/Resources/pMAT%20Image.JPG)
 
 ## What is pMAT?
