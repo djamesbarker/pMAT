@@ -34,7 +34,9 @@ COMING SOON!!!
 - [x] Spike Detection
 - [ ] Import function for Neurophotometrics Data
 - [ ] Import function for FIP systems
-- [ ]
+- [ ] Compatibility with other open-source platforms (e.g., [SimBA](https://github.com/sgoldenlab/simba))
+- [ ] Control channel-free detrending algorithms.
+- [ ] Increased compatibility with TDT features (e.g., Behavioral notes).
 
 ## License 📃
 This project is licensed under the GNU Lesser General Public License v3.0. Note that the software is provided "as is", without warranty of any kind, express or implied. 
