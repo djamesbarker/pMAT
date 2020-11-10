@@ -5,10 +5,10 @@
 **Version 1.3 coming soon!**
 ![](https://github.com/djamesbarker/pMAT/blob/master/Resources/pMAT%20Image.JPG)
 
--Spike detection protocol!
--Bug fixes
--Accompanying YouTube videos
--Increased Mac compatibility (We're not Mac folks here in the Barker Lab, so bear with us).
+-[Spike detection protocol!]
+-[Bug fixes]
+-[Accompanying YouTube videos]
+-[Increased Mac compatibility (We're not Mac folks here in the Barker Lab, so bear with us).]
 
 ## What is pMAT?
 
