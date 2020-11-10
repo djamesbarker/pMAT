@@ -29,6 +29,13 @@ These files provide examples of how files should be formatted for use in pMAT an
 
 COMING SOON!!!
 
+## Planned Updates 📜
+**Check back or [get in touch with us](https://www.thebarkerlab.com/contact) regarding future updates**
+- [x] Spike Detection
+- [ ] Import function for Neurophotometrics Data
+- [ ] Import function for FIP systems
+- [ ]
+
 ## License 📃
 This project is licensed under the GNU Lesser General Public License v3.0. Note that the software is provided "as is", without warranty of any kind, express or implied. 
 
