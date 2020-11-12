@@ -52,6 +52,7 @@ This project is licensed under the GNU Lesser General Public License v3.0. Note 
 ## References 📜
 
 **Pre-print: [pMAT: An Open-Source, Modular Software Suite for the Analysis of Fiber Photometry Calcium Imaging](https://www.biorxiv.org/content/10.1101/2020.08.23.263673v1)**
+**The original scripts behind the GUI can be found [here](https://github.com/djamesbarker/FiberPhotometry) for those interested in writing their own MATLAB code**
 [![Foo](https://github.com/djamesbarker/pMAT/blob/master/Resources/LabIcon.png)](https://www.thebarkerlab.com) 
 [![Foo](https://github.com/djamesbarker/pMAT/blob/master/Resources/twitter.png)](https://twitter.com/DavidBarker_PhD)
 
