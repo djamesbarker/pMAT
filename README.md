@@ -27,6 +27,8 @@ These files provide examples of how files should be formatted for use in pMAT an
  
 ## YouTube Video Tutorials 🎞️
 
+- [Training Playlist for new users](https://www.youtube.com/playlist?list=PLUej2ATvfcttc41wCPWJGxLGIwG31mG3o)
+
 - [Installing pMAT as an independent application](https://youtu.be/-pmzwPBfRGQ)
 - [Installing pMAT for MATLAB](https://youtu.be/859e4y8F598)
 - [Loading TDT data into pMAT](https://youtu.be/PZ8OHabO57Q)
