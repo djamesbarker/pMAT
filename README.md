@@ -27,7 +27,13 @@ These files provide examples of how files should be formatted for use in pMAT an
  
 ## YouTube Video Tutorials 🎞️
 
-COMING SOON!!!
+- [Installing pMAT as an independent application](https://youtu.be/-pmzwPBfRGQ)
+- [Installing pMAT for MATLAB](https://youtu.be/859e4y8F598)
+- [Loading TDT data into pMAT](https://youtu.be/PZ8OHabO57Q)
+- [pMAT Options Module tutorial](https://youtu.be/DSdPbSHu1eg)
+- [pMAT Export Data Module tutorial](https://youtu.be/XZ7Bl0J5m_o)
+
+MORE VIDEOS COMING SOON!!! STAY TUNED!!!
 
 ## Planned Updates 📜
 **Check back or [get in touch with us](https://www.thebarkerlab.com/contact) regarding future updates**
