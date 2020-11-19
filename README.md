@@ -33,8 +33,10 @@ These files provide examples of how files should be formatted for use in pMAT an
 - [Installing pMAT as an independent application](https://youtu.be/-pmzwPBfRGQ)
 - [Installing pMAT for MATLAB](https://youtu.be/859e4y8F598)
 - [Loading TDT data into pMAT](https://youtu.be/PZ8OHabO57Q)
+- [Loading Other data formats into pMAT as a CSV file](https://youtu.be/XzofPsLw8lI)
 - [pMAT Options Module tutorial](https://youtu.be/DSdPbSHu1eg)
 - [pMAT Export Data Module tutorial](https://youtu.be/XZ7Bl0J5m_o)
+- [pMAT Plot Trace Data Module tutorial](https://youtu.be/zp6oKvIKUC0)
 
 MORE VIDEOS COMING SOON!!! STAY TUNED!!!
 
