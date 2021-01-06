@@ -52,6 +52,12 @@ MORE VIDEOS COMING SOON!!! STAY TUNED!!!
 ## License 📃
 This project is licensed under the GNU Lesser General Public License v3.0. Note that the software is provided "as is", without warranty of any kind, express or implied. 
 
+## Some notable details ‍💻
+- Developed and tested in Windows on MATLAB 2019a and 2020a. 
+- A special thank you to John Woodward, who has helped us troubleshoot Mac compatibility (MATLAB version only).
+- MATLAB Runtime 9.8 and above have worked for standalone installation
+- Installation time is typically around 10 minutes (not including MATLAB installation).
+
 ## References 📜
 
 - **Pre-print: [pMAT: An Open-Source, Modular Software Suite for the Analysis of Fiber Photometry Calcium Imaging](https://www.biorxiv.org/content/10.1101/2020.08.23.263673v1)**
