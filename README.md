@@ -9,6 +9,7 @@
 - Bug fixes
 - Accompanying YouTube videos
 - Increased Mac compatibility (We're not Mac folks here in the Barker Lab, so bear with us).
+- MAC USERS: PLEASE USE VERSION 1.3 FOR ALL OF THE BUG FIXES!
 
 ## What is pMAT?
 
